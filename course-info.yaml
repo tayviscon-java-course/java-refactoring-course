@@ -5,9 +5,8 @@ vendor:
   name: tayviscon
 programming_language: Java
 programming_language_version: 21
+content:
+  - 1. Предисловие
+  - 2. Запахи кода
 environment_settings:
   jvm_language_level: JDK_21
-content:
-  - Предисловие
-  - Запахи кода
-
