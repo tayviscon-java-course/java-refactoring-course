@@ -1,0 +1,9 @@
+.gradle
+.idea
+gradle
+**/build/
+**/tmp/
+**/out/
+*remote-info.yaml
+course.json
+*.zip
