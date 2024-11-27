@@ -9,5 +9,6 @@ content:
   - 1. Предисловие
   - 2. Запахи кода
   - 3. Техники рефакторинга
+  - 4. Паттерны
 environment_settings:
   jvm_language_level: JDK_17
