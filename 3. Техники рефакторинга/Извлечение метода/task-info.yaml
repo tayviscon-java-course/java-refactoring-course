@@ -1,0 +1,13 @@
+type: edu
+files:
+  - name: src/service/ExtractMethodProblemCode.java
+    visible: true
+  - name: src/service/ExtractMethodCorrectCode.java
+    visible: false
+    editable: false
+  - name: src/domain/Person.java
+    visible: true
+    editable: false
+  - name: test/service/ExtractMethodProblemCodeTest.java
+    visible: false
+    propagatable: false
